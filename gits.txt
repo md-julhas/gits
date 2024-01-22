@@ -1,2 +1,6 @@
 How to use the gits repository? 
 This is the instructions about that... 
+
+
+
+Change from local repository
