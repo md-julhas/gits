@@ -2,4 +2,9 @@ How to use the gits repository?
 This is the instructions about that... 
 
 
+
 change from remote repository 
+
+
+Change from local repository
+
